@@ -1,0 +1,36 @@
+HOW IS THE STAGING AREA DIFFERENT FROM THE WORKING DIRECTORY
+AND THE REPOSITORY? WHAT VALUE DO YOU THINK IT OFFERS?
+
+The staging area allows you to choose which files you would
+like to commit. Often times you might be working a few files
+at once but only require one file to be commited at this
+point. It's value is it's ability to know exactly which files
+you are going to commit. You have more control on what your
+putting into the next commit and repository.
+
+How can you use the staging area to make sure you have one 
+commit per logical change?
+
+You push through only the files that are part of the
+single logical change that you are making.
+
+What are some situations when branches would be helpful in
+keeping your history organized? How would branches help?
+
+Not sure???
+
+What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+
+The two branches merge together seemlessly. All features
+ from both branches merge into one branch. It's easier
+ to visualise the branches when you draw the branches
+ and see how they connect with one another.
+
+ What are the pros and cons of Git’s automatic merging
+ vs. always doing merges manually?
+
+Automatic merging could have undefined results. It
+could essentially break the code and produce something
+strange. Manually changing takes longer but you have
+peace of mind knowing that the merge 
