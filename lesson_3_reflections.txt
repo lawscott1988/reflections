@@ -9,3 +9,13 @@ than having Git automatically stay up-to-date with your remote repository?
 Because multiple people could be working on the same files in their local. 
 Those changes might not be ready to implement and would cause errors (clashes)
 etc if it stayed up to date automatically
+
+Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+
+Clone is a copy of the repository with a remote that points to the
+original on github.
+Branch is a different version of the same git on a different commit line
+Fork is a copy of the github repository in your own directory which points
+to the original repository but doesn't modify it when you make changes to 
+your own fork.
