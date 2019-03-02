@@ -19,3 +19,16 @@ Branch is a different version of the same git on a different commit line
 Fork is a copy of the github repository in your own directory which points
 to the original repository but doesn't modify it when you make changes to 
 your own fork.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+To know the difference in history of the github repository vs the local git
+history
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+You'd have to share information via email or dropbox etc. It would be more
+difficult to under the differences in changes and not easy to make comparisons.
+Git and Github are a must when working collabratively on a project.
